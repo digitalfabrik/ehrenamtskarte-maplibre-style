@@ -9,12 +9,12 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://maps.tuerantuer.org/europe_germany/tiles.json"
+      "url": "https://maps.gruene.verdigado.net/europe_germany"
     },
     "natural_earth_shaded_relief": {
       "maxzoom": 6,
       "tileSize": 256,
-      "url": "https://maps.tuerantuer.org/natural_earth/tiles.json",
+      "url": "https://maps.gruene.verdigado.net/natural_earth",
       "type": "raster"
     },
     "physical_stores": {
